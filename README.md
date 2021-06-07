@@ -1,6 +1,6 @@
 # Memer
 
-It returns you random a programming meme that you can show any where, even your gihub readmes'. Every time you reload the page, a new meme is shown.
+It returns you random a programming meme that you can show any where, even your gihub readmes'. Every time you reload the page, a new meme is shown.You can use this in your github profile page.[Like....](https://github.com/iamAbhishekkumar)
 
 ### How to use
 
