@@ -1,6 +1,6 @@
 # Memer
 
-It returns you, a random programming meme that you can show in your readmes. You can use this in your github's profile page.[Like....](https://github.com/iamAbhishekkumar)
+It returns you, a random programming meme that you can show in your readme. You can use this in your github's profile page.[Like....](https://github.com/iamAbhishekkumar)
 
 ### How to use
 
