@@ -1,6 +1,6 @@
 # Memer
 
-It returns you random a programming meme that you can show any where, even your gihub readmes'. Every time you reload the page, a new meme is shown.
+It returns you a random programming meme that you can show anywhere, even your github readmes'. Every time you reload the page, a new meme is shown.
 
 ### How to use
 
